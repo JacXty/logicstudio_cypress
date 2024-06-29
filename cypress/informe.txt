@@ -1,0 +1,40 @@
+
+Hallazgos de la Solución y Recomendaciones
+
+Validación del Título
+El título de la página "Space & Beyond | Testim.io demo" se validó de manera exitosa.
+Recomendación: No se requiere ninguna mejora en este punto.
+
+Validación de Destinos
+La búsqueda del destino "Madan" se validó de manera exitosa.
+Recomendación: No se requiere ninguna mejora en este punto.
+
+Selección de Fechas
+Solo se pueden seleccionar fechas futuras. Esto se verificó exitosamente seleccionando el 28 de abril de 2024.
+Recomendación: Considerar agregar una validación visual o un mensaje que indique que solo se pueden seleccionar fechas futuras para mejorar la experiencia del usuario.
+
+Selección de Boletos
+El filtro para seleccionar boletos (2 adultos y 1 niño) funciona de manera correcta.
+Recomendación: No se requiere ninguna mejora en este punto.
+
+Verificación de Destinos Disponibles
+La funcionalidad de verificar destinos disponibles funciona correctamente.
+Recomendación: No se requiere ninguna mejora en este punto.
+
+Relleno del Formulario
+El formulario se rellenó exitosamente con todos los datos requeridos.
+Problema Encontrado: El campo de teléfono valida el número según el país y el número "2124567890" no es compatible.
+Recomendación: Mejorar la validación del campo de teléfono para aceptar formatos internacionales o proporcionar una guía clara sobre el formato requerido.
+
+Subida de Fotografía
+La funcionalidad de subir una fotografía se verificó de manera correcta.
+Recomendación: No se requiere ninguna mejora en este punto.
+
+Ingreso del Código Promocional
+La funcionalidad para ingresar el código promocional "30076" se verificó de manera correcta.
+Recomendación: No se requiere ninguna mejora en este punto.
+
+Realización del Pago
+La funcionalidad para realizar el pago depende de las pruebas anteriores y el botón de pago se encuentra bloqueado hasta que todas las condiciones previas se cumplan.
+Problema Encontrado: El botón de pago se encuentra bloqueado si alguna de las pruebas anteriores falla.
+Recomendación: Asegurarse de que todas las condiciones previas se cumplan antes de permitir el pago. Proporcionar mensajes de error claros para guiar al usuario en caso de que alguna condición no se cumpla.
